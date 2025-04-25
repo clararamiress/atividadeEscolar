@@ -14,7 +14,7 @@
 <a href="conDisciplinas.php"> Consulta Disciplinas </a> <br/> <br/>
 
 <a href="cadNotas.php"> Cadastro Notas  </a> <br/> <br/>
-
+<a href="cadNotaas.php"> Cadastro Notas  </a> <br/> <br/>
 <a href="conNotas.php"> Consulta Notas </a> <br/> <br/>
 
 </body>
